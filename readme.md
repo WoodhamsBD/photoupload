@@ -1,4 +1,4 @@
 ## What is this?
 
-User Auth skeleton based on Wes Bos Learn Node Starter template. This has been heavily modified to include only a basic user auth flow for registration and login.
+Used my userskelly base for basic user account functionality. Going to incorportate a Photo uploading and sharing functionality utilizing S3 bucket for storage
 
